@@ -1,7 +1,9 @@
+package java_pran_programs;
+
 import java.util.Scanner;
 class Operations_twoNumbers
 {
-    //test
+    
     public static void main (String args[])
     {
         int num1,num2,result,op_num,Test;
@@ -65,3 +67,4 @@ class Operations_twoNumbers
             System.out.println("  "+result_op );
         }        
 }
+//just to see testing
